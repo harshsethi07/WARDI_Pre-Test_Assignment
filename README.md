@@ -1,2 +1,2 @@
-# WARDI_Assignment_0
+# WARDI Assignment 1
 This was created for the preliminary assignment of WARDI
